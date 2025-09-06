@@ -1,0 +1,26 @@
+[
+  {
+    "testCaseName": "TC001_HammerCheckout",
+    "productName": "Thor Hammer",
+    "firstName": "John",
+    "lastName": "Doe",
+    "address": "123 Main Street",
+    "city": "Anytown",
+    "state": "California",
+    "country": "United States",
+    "postalCode": "12345",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "testCaseName": "TC002_PliersCheckout",
+    "productName": "Pliers",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "address": "456 Oak Avenue",
+    "city": "Somewhere",
+    "state": "New York",
+    "country": "United States",
+    "postalCode": "67890",
+    "paymentMethod": "PayPal"
+  }
+]

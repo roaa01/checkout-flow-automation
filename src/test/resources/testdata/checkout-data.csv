@@ -1,0 +1,5 @@
+testCaseName,productName,firstName,lastName,address,city,state,country,postalCode,paymentMethod
+TC001_HammerCheckout,Thor Hammer,John,Doe,123 Main Street,Anytown,California,United States,12345,Credit Card
+TC002_PliersCheckout,Pliers,Jane,Smith,456 Oak Avenue,Somewhere,New York,United States,67890,PayPal
+TC003_BoltCuttersCheckout,Bolt Cutters,Bob,Johnson,789 Pine Road,Nowhere,Texas,United States,54321,Credit Card
+TC004_ScrewdriverCheckout,Screwdriver,Alice,Brown,321 Elm Street,Everywhere,Florida,United States,98765,Debit Card
